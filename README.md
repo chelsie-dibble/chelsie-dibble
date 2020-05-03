@@ -1,2 +1,0 @@
-# chelsie-dibble
-Webpage project
